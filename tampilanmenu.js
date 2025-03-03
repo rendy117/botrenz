@@ -9,8 +9,7 @@ return `┌╾⚟┉➲【𝙎𝙔𝙎𝙏𝙀𝙈 𝙈𝙀𝙉𝙐】─═⚔�
 │  ⟿ TikTok: ${ttk}
 │  ⟿ YouTube: ${ytbb}
 │  ⟿ Instagram: ${itg}
-│  ⟿ Github NHEBotx:\nhttps://github.com/NHEBotx
-│  ⟿ Github Sychyy:\nhttps://github.com/sychyy
+│  ⟿ Github Renzz:\nhttps://github.com/rendy117
 │  
 └────────────────────────┘
 
